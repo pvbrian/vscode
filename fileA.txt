@@ -1,4 +1,4 @@
-Also a weird new line
+This is a new line
 Added line for commit c
 New line in feature 1
 Distributed commit b
