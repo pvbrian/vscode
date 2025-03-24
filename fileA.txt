@@ -1,2 +1,4 @@
 Random Line
 Added line for commit c
+New line in feature 1
+Distributed commit b
